@@ -1,0 +1,14 @@
+flask
+scikit-learn
+pandas
+joblib
+ollama
+pyttsx3
+pygame
+playsound
+openai
+schedule
+opencv-python
+nltk
+spacy
+deep_translator

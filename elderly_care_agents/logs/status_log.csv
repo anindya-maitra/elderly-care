@@ -1,0 +1,12 @@
+time,heart_rate,glucose,spo2,health_status,safety_status
+18:26:38,75,73,100,🚨 Health Alert!,✅ Safe
+18:28:54,62,78,95,🚨 Health Alert!,✅ Safe
+18:30:59,89,71,93,🚨 Health Alert!,✅ Safe
+18:32:33,92,85,94,✅ Health OK,✅ Safe
+18:34:23,86,147,98,🚨 Health Alert!,✅ Safe
+18:34:42,80,116,93,✅ Health OK,✅ Safe
+18:35:40,72,142,93,🚨 Health Alert!,✅ Safe
+18:36:23,73,146,94,🚨 Health Alert!,✅ Safe
+18:37:20,81,120,98,✅ Health OK,✅ Safe
+18:38:16,85,109,99,🚨 Health Alert!,🚨 Safety Alert!
+18:38:56,77,89,99,✅ Health OK,✅ Safe
